@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on this transaction fraud detection app!
-- 🌱 I’m currently deepening my knowledge in ML through a Stanford specialization!
-- 👯 I’m looking to collaborate on financial and fiscal analysis with Machine Learning
+-  I’m currently working on this transaction fraud detection app! 💱
+-  I’m currently deepening my knowledge in ML through a Stanford specialization! 📚
+-  I’m looking to collaborate on financial and fiscal analysis with Machine Learning 💰
  
- - Feel free to contact me!
+ - Feel free to contact me! 📩
 
 <!--
 **ThigasToo/ThigasToo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
