@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Thiago Cunha, and this are some thing about me:
+My name is Thiago Cunha, and this are some things about me:
 
 -  I’m currently working on this transaction fraud detection app! 💱
 -  I’m currently deepening my knowledge in ML through a Stanford specialization! 📚
