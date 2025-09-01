@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Season 3 Hello GIF by The Office](https://github.com/user-attachments/assets/6992ff7b-5e91-4864-8005-3d8a7f03ad63)
-
 My name is Thiago Cunha, and this are some things about me:
 
 -  I’m currently working on this transaction fraud detection app! 💱
