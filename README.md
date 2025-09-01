@@ -5,7 +5,7 @@ My name is Thiago Cunha, and this are some things about me:
 -  I’m currently working on this transaction fraud detection app! 💱
 -  I’m currently deepening my knowledge in ML through a Stanford specialization! 📚
 -  I’m looking to collaborate on financial and fiscal analysis with Machine Learning 💰
--  ⚡ Fun fact: you can find some non-work related code in the 'personal_projects' folder
+-  Fun fact: you can find some non-work related code in the 'personal_projects' folder ⚡ 
  
  - Feel free to contact me! 📩
 
