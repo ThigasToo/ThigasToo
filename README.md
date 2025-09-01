@@ -5,7 +5,7 @@ Meu nome é Thiago Cunha, e aqui estão alguns fatos sobre mim:
 -  Atualmente estou trabalhando em um projeto de detecção de fraude em transações! 💱
 -  Estou aprofundado meu conhecimento em ML pela especialização de Stanford! 📚
 -  Procuro colaborar nas análises financeiras e contábeis pelo Machine Learning! 💰
--  Fato curioso: vocÊ consegue ver alguns projetos feitos por lazer na pasta 'personal_projects' ⚡
+-  Fato curioso: você consegue ver alguns projetos feitos por lazer na pasta 'personal_projects' ⚡
 -  Fique a vontade para entrar em contato! 📩
 
 
