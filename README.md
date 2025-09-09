@@ -31,6 +31,8 @@ My name is Thiago Cunha, and this are some things about me:
 <img align = "left" alt = "n8n" width = "35px" style="padding-right:10px;" src="https://github.com/ThigasToo/personal_projects/blob/main/pngs/n8n-icon.png" />
 <img align = "left" alt = "Gemini" width = "35px" style="padding-right:10px;" src="https://github.com/ThigasToo/personal_projects/blob/main/pngs/google-gemini-icon.png" />
 <img align = "left" alt = "Chat GPT" width = "35px" style="padding-right:10px;" src="https://github.com/ThigasToo/personal_projects/blob/main/pngs/icons8-chatgpt-50.png" />
+<img align = "left" alt = "Make" width = "35px" style="padding-right:10px;" src="https://github.com/ThigasToo/personal_projects/blob/main/pngs/logo-make.png" />
+<img align = "left" alt = "VoiceFlow" width = "35px" style="padding-right:10px;" src="https://github.com/ThigasToo/personal_projects/blob/main/pngs/voiceflow.png" />
 
 
 
