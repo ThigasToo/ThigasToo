@@ -2,7 +2,7 @@
 
 Meu nome é Thiago Cunha, e aqui estão alguns fatos sobre mim: 
 
--  Atualmente estou trabalhando em um projeto de programa de trade automatizado em Python! 💱
+-  Atualmente estou trabalhando em projetos de automação! 💱
 -  Estou aprofundado meu conhecimento em ML pela especialização de Stanford! 📚
 -  Procuro colaborar nas análises financeiras e contábeis pelo Machine Learning! 💰
 -  Fato curioso: você consegue ver alguns projetos feitos por lazer na pasta 'personal_projects' ⚡
@@ -13,7 +13,7 @@ Meu nome é Thiago Cunha, e aqui estão alguns fatos sobre mim:
 
 My name is Thiago Cunha, and this are some things about me:
 
--  I’m currently working on this automated trading program project in Python! 💱
+-  I’m currently working on automation programs! 💱
 -  I’m currently deepening my knowledge in ML through a Stanford specialization! 📚
 -  I’m looking to collaborate on financial and fiscal analysis with Machine Learning 💰
 -  Fun fact: you can find some non-work related code in the 'personal_projects' folder ⚡ 
