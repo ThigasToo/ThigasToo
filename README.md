@@ -2,22 +2,16 @@
 
 Meu nome é Thiago Cunha, e aqui estão alguns fatos sobre mim: 
 
--  Atualmente estou trabalhando em projetos de automação! 💱
--  Estou aprofundado meu conhecimento em ML pela especialização de Stanford! 📚
--  Procuro colaborar nas análises financeiras e contábeis pelo Machine Learning! 💰
--  Fato curioso: você consegue ver alguns projetos feitos por lazer na pasta 'personal_projects' ⚡
--  Fique a vontade para entrar em contato! 📩
+-  Atualmente estou trabalhando em uma IA para consultoria! 💱
+-  Estou aprofundado meu conhecimento em Cibersegurança! 📚
 
 
 ## Hi there, 👋
 
 My name is Thiago Cunha, and this are some things about me:
 
--  I’m currently working on automation programs! 💱
--  I’m currently deepening my knowledge in ML through a Stanford specialization! 📚
--  I’m looking to collaborate on financial and fiscal analysis with Machine Learning 💰
--  Fun fact: you can find some non-work related code in the 'personal_projects' folder ⚡ 
- - Feel free to contact me! 📩
+-  I’m currently working on an AI for Consulting! 💱
+-  I’m currently deepening my knowledge in Cybersecurity! 📚
 
 ### Languages and tools
 
