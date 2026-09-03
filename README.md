@@ -3,8 +3,8 @@
 Meu nome é Thiago Cunha, e aqui estão alguns fatos sobre mim: 
 
 -  Gosto de desenvolver apps para problemas diários.
--  Atualmente estou trabalhando em uma IA Assessor de Investimentos! 💱
--  Estou aprofundado meu conhecimento em Cibersegurança, AI e Big Data! 📚
+-  Atualmente estou trabalhando em um app familiar de Open Finance - sem custos! 💱
+-  Estou aprofundado meu conhecimento em Reestruturação Financeira e Tributos! 📚
 
 
 ## Hi there, 👋
@@ -12,8 +12,8 @@ Meu nome é Thiago Cunha, e aqui estão alguns fatos sobre mim:
 My name is Thiago Cunha, and this are some things about me:
 
 -  I like developing apps for everyday problems.
--  I’m currently working on a Financial Advisor AI! 💱
--  I’m currently deepening my knowledge in Cybersecurity, AI and Big Data! 📚
+-  I’m currently working on a family app with Open Finance - free! 💱
+-  I’m currently deepening my knowledge in Finances and Taxes! 📚
 
 ### Languages and tools
 
